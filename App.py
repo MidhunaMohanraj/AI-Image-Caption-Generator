@@ -3,7 +3,7 @@ app.py — AI Image Caption Generator
 Upload any image → Get captions, alt text, tags, mood & social media posts
 Uses BLIP (local, no API key) + optional Gemini for enhanced captions
 """
-
+ 
 import streamlit as st
 from PIL import Image
 import torch
